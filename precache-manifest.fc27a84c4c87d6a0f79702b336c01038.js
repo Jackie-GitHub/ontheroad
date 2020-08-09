@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "952020e441adac054c6aad98e948e5d9",
+    "revision": "f1d770fe9ba6bfa100a6ce279020c7d7",
     "url": "/ontheroad/index.html"
   },
   {
-    "revision": "1f2e84dd8023faac0ea0",
-    "url": "/ontheroad/static/css/main.c914e58f.chunk.css"
+    "revision": "6ceb5c9655b22d8ae6df",
+    "url": "/ontheroad/static/css/main.67c6b1ab.chunk.css"
   },
   {
-    "revision": "079e341b3e40f9c20983",
-    "url": "/ontheroad/static/js/2.df578d31.chunk.js"
+    "revision": "a288e992ecb588cddf99",
+    "url": "/ontheroad/static/js/2.b21a9b4c.chunk.js"
   },
   {
     "revision": "6b1c9aa1f24077e4bfd4b51db2988c14",
-    "url": "/ontheroad/static/js/2.df578d31.chunk.js.LICENSE.txt"
+    "url": "/ontheroad/static/js/2.b21a9b4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f2e84dd8023faac0ea0",
-    "url": "/ontheroad/static/js/main.3e12817d.chunk.js"
+    "revision": "6ceb5c9655b22d8ae6df",
+    "url": "/ontheroad/static/js/main.37dc4391.chunk.js"
   },
   {
     "revision": "49e5e50a2c61345ddacb",
     "url": "/ontheroad/static/js/runtime-main.d3a6848d.js"
+  },
+  {
+    "revision": "fa314bb9544cff31f478a7afdc3e6a9a",
+    "url": "/ontheroad/static/media/20,000LUS.fa314bb9.jpg"
+  },
+  {
+    "revision": "e1480cc81b5e9a4310dc1c19e90d08e4",
+    "url": "/ontheroad/static/media/A_Year_in_Provence.e1480cc8.jpg"
   },
   {
     "revision": "6fd8a3184ad96d6fea787aef2027357c",
@@ -34,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d0b4f212e582ef71ce6289d1efa03b86",
     "url": "/ontheroad/static/media/Beijing.d0b4f212.jpg"
+  },
+  {
+    "revision": "29b6c9cbdb66fd646c9691972dd9f811",
+    "url": "/ontheroad/static/media/EatPrayLove.29b6c9cb.jpg"
   },
   {
     "revision": "582ff1e6569b10435531ea6616963c71",
@@ -68,6 +80,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ontheroad/static/media/Singapore.d1d8e45f.jpg"
   },
   {
+    "revision": "114c321a72dcf143f79fb5867e8939ae",
+    "url": "/ontheroad/static/media/TheHiddenLifeOfTrees.114c321a.jpg"
+  },
+  {
+    "revision": "a5a0cf505c058dda25f76c380c555d0c",
+    "url": "/ontheroad/static/media/Walden.a5a0cf50.jpg"
+  },
+  {
     "revision": "7055d5138772be608e082f2bec95d1bc",
     "url": "/ontheroad/static/media/beach-Bora Bora.7055d513.jpg"
   },
@@ -100,10 +120,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ontheroad/static/media/grassland-Hulun Buir.4052a2b8.jpg"
   },
   {
-    "revision": "01cce536fd93dbb7f4e8a068831e24f8",
-    "url": "/ontheroad/static/media/hand-cursor.01cce536.png"
-  },
-  {
     "revision": "48f56c7784a865c9ca3c19c48367d396",
     "url": "/ontheroad/static/media/lake-Crater Lake.48f56c77.jpg"
   },
@@ -130,6 +146,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f300aacf1119db25cd5e80c818af7f59",
     "url": "/ontheroad/static/media/naturebackground.f300aacf.jpg"
+  },
+  {
+    "revision": "0fc71851ee5304feb316b25124f1d222",
+    "url": "/ontheroad/static/media/naturebackgroundV.0fc71851.jpg"
   },
   {
     "revision": "8ba387fd19e9ac4247780496e957a439",
