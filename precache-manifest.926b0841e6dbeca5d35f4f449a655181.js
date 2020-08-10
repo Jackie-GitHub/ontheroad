@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1d770fe9ba6bfa100a6ce279020c7d7",
+    "revision": "8819e69c0fc43b670337b9b8f5c5fa27",
     "url": "/ontheroad/index.html"
   },
   {
-    "revision": "6ceb5c9655b22d8ae6df",
+    "revision": "4a3d70212d5cecfc1b1f",
     "url": "/ontheroad/static/css/main.67c6b1ab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ontheroad/static/js/2.b21a9b4c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6ceb5c9655b22d8ae6df",
-    "url": "/ontheroad/static/js/main.37dc4391.chunk.js"
+    "revision": "4a3d70212d5cecfc1b1f",
+    "url": "/ontheroad/static/js/main.cac5ff35.chunk.js"
   },
   {
     "revision": "49e5e50a2c61345ddacb",

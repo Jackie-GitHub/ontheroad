@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ontheroad/static/css/main.67c6b1ab.chunk.css",
-    "main.js": "/ontheroad/static/js/main.37dc4391.chunk.js",
-    "main.js.map": "/ontheroad/static/js/main.37dc4391.chunk.js.map",
+    "main.js": "/ontheroad/static/js/main.cac5ff35.chunk.js",
+    "main.js.map": "/ontheroad/static/js/main.cac5ff35.chunk.js.map",
     "runtime-main.js": "/ontheroad/static/js/runtime-main.d3a6848d.js",
     "runtime-main.js.map": "/ontheroad/static/js/runtime-main.d3a6848d.js.map",
     "static/js/2.b21a9b4c.chunk.js": "/ontheroad/static/js/2.b21a9b4c.chunk.js",
     "static/js/2.b21a9b4c.chunk.js.map": "/ontheroad/static/js/2.b21a9b4c.chunk.js.map",
     "index.html": "/ontheroad/index.html",
-    "precache-manifest.fc27a84c4c87d6a0f79702b336c01038.js": "/ontheroad/precache-manifest.fc27a84c4c87d6a0f79702b336c01038.js",
+    "precache-manifest.926b0841e6dbeca5d35f4f449a655181.js": "/ontheroad/precache-manifest.926b0841e6dbeca5d35f4f449a655181.js",
     "service-worker.js": "/ontheroad/service-worker.js",
     "static/css/main.67c6b1ab.chunk.css.map": "/ontheroad/static/css/main.67c6b1ab.chunk.css.map",
     "static/js/2.b21a9b4c.chunk.js.LICENSE.txt": "/ontheroad/static/js/2.b21a9b4c.chunk.js.LICENSE.txt",
@@ -81,6 +81,6 @@
     "static/js/runtime-main.d3a6848d.js",
     "static/js/2.b21a9b4c.chunk.js",
     "static/css/main.67c6b1ab.chunk.css",
-    "static/js/main.37dc4391.chunk.js"
+    "static/js/main.cac5ff35.chunk.js"
   ]
 }
